@@ -1,14 +1,17 @@
-//
-// Created by nerea on 18/10/2023.
-//
+#ifndef ESTUDIANTE_H
+#define ESTUDIANTE_H
 
-#ifndef COLECCIONEJERCICIOSNOCIONESCLAVE1_ESTUDIANTE_H
-#define COLECCIONEJERCICIOSNOCIONESCLAVE1_ESTUDIANTE_H
+#include <string>
+#include "Persona.h"
 
+class Estudiante : public Persona {
+    std::string grado;
 
-class Estudiante {
-
+public:
+    void setGrado(const std::string &grado);
+    std::string getGrado();
+    void mostrarDetalles();
 };
 
+#endif
 
-#endif //COLECCIONEJERCICIOSNOCIONESCLAVE1_ESTUDIANTE_H

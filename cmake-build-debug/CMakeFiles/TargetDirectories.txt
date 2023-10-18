@@ -1,0 +1,5 @@
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave1/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave1/cmake-build-debug/CMakeFiles/persona.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave1/cmake-build-debug/CMakeFiles/estudiante.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
